@@ -1,0 +1,12 @@
+{
+  "size": 109365263,
+  "sha256": "de5a713371668d46c012d5934b66f8adb1f28c4def363054389ac53463c085f1",
+  "version": "2.0.0 Beta",
+  "package": "lk.vurix.app",
+  "minAndroid": "Android 7.0+",
+  "versionCode": 6,
+  "signer": "C=US,O=Android,CN=Android Debug",
+  "signingBlock": "APK v2",
+  "signerSha256": "31a06a69df693f62226258edff65d0e87c428a41583f3f6f34245c713b9c5599",
+  "signatureVerification": "Signing certificate inspected; full APK signature verification not performed."
+}
